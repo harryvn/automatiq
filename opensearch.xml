@@ -4,8 +4,8 @@
   <ShortName>The Future Tests Itself!</ShortName>
   <Description>Search The Future Tests Itself!</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://harryvn.github.io/img/favicon.png</Image>
-  <Url type="text/html" method="get" template="https://harryvn.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://harryvn.github.io/opensearch.xml" />
-  <moz:SearchForm>https://harryvn.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://harryvn.github.io/automatiq-docs/img/favicon.png</Image>
+  <Url type="text/html" method="get" template="https://harryvn.github.io/automatiq-docs/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://harryvn.github.io/automatiq-docs/opensearch.xml" />
+  <moz:SearchForm>https://harryvn.github.io/automatiq-docs/</moz:SearchForm>
 </OpenSearchDescription>
