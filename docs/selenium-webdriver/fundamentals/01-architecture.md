@@ -16,7 +16,7 @@ The diagram below illustrates the core interfaces, classes, and relationships th
 
 import ZoomableSVG from '@site/src/components/ZoomableIMG/svg';
 
-<ZoomableSVG src="/img/architecture.svg" alt="Architecture Diagram" height="600px" />
+<ZoomableSVG src="/automatiq/img/architecture.svg" alt="Architecture Diagram" height="600px" />
 
 ---
 
