@@ -367,7 +367,7 @@ The source code is available on [GitHub](https://github.com/harryvn/selenium-aut
 
 In the next [article](/blog/packaging), you will learn how to update the project for packaging it into a `JAR` file, ready for execution in a containerised environment using Docker.
 
-To setup and execute automation scripts on remote selenium grid refer this [article](http://localhost:7001/blog/packaging).
+To setup and execute automation scripts on remote selenium grid refer this [article](/blog/automation/selenium/javascript/2024-03-02-docker.md).
 
 If you find this article helpful or have any suggestions, reach out to me on [LinkedIn](https://www.linkedin.com/in/harryvn/).
 
