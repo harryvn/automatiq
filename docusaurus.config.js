@@ -8,7 +8,7 @@ const config = {
   favicon: "img/favicon.png",
 
   url: "https://harryvn.github.io",
-  baseUrl: "/",
+  baseUrl: "/automatiq/",
 
   organizationName: "harryvn",
   projectName: "automatiq-docs",
@@ -59,7 +59,7 @@ const config = {
       announcementBar: {
         id: "support_us",
         content:
-          'If you like this initiative, give it a ⭐ on <a target="_blank" rel="noopener noreferrer" href="https://github.com/harryvn/selenium-automation-framework-java">GitHub</a>!',
+          'If you like this initiative, give it a ⭐ on <a target="_blank" rel="noopener noreferrer" href="https://github.com/harryvn/automatiq-docs">GitHub</a>!',
         backgroundColor: "#fafbfc",
         textColor: "#091E42",
         isCloseable: true,
@@ -161,9 +161,9 @@ const config = {
         theme: { light: "default", dark: "dark" },
       },
       algolia: {
-        appId: 'YOUR_APP_ID',
-        apiKey: 'YOUR_SEARCH_API_KEY',
-        indexName: 'automatiq',
+        appId: "YOUR_APP_ID",
+        apiKey: "YOUR_SEARCH_API_KEY",
+        indexName: "automatiq",
       },
     }),
   plugins: [],
