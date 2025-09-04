@@ -14,14 +14,9 @@ The diagram below illustrates the core interfaces, classes, and relationships th
 
 ---
 
-import BrowserOnly from '@docusaurus/BrowserOnly';
 import ZoomableSVG from '@site/src/components/ZoomableIMG/svg';
 
-<BrowserOnly fallback={<div>Loading diagram…</div>}>
-{() => (
 <ZoomableSVG src="/img/architecture.svg" alt="Architecture Diagram" height="600px" />
-)}
-</BrowserOnly>
 
 ---
 

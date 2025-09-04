@@ -1,5 +1,4 @@
 import React, { useEffect, useRef } from "react";
-import svgPanZoom from "svg-pan-zoom";
 
 export default function ZoomableSVG({ src, alt, height = "500px" }) {
   const containerRef = useRef(null);
@@ -7,38 +6,42 @@ export default function ZoomableSVG({ src, alt, height = "500px" }) {
   useEffect(() => {
     let panZoomInstance;
 
-    if (containerRef.current) {
-      const objectEl = containerRef.current;
+    async function init() {
+      const { default: svgPanZoom } = await import("svg-pan-zoom"); // ← import here
 
-      objectEl.addEventListener("load", () => {
-        const svgDoc = objectEl.contentDocument;
-        const svgEl = svgDoc.querySelector("svg");
+      if (containerRef.current) {
+        const objectEl = containerRef.current;
 
-        if (svgEl) {
-          // 🔒 Force light theme inside SVG
-          const style = document.createElement("style");
-          style.textContent = `
-            * {
-              color-scheme: light !important;
-              forced-color-adjust: none !important;
-            }
-            svg {
-              background-color: white !important;
-              color: black !important;
-            }
-          `;
-          svgEl.insertBefore(style, svgEl.firstChild);
+        objectEl.addEventListener("load", () => {
+          const svgDoc = objectEl.contentDocument;
+          const svgEl = svgDoc.querySelector("svg");
 
-          // Enable zoom/pan
-          panZoomInstance = svgPanZoom(svgEl, {
-            zoomEnabled: true,
-            controlIconsEnabled: true,
-            fit: true,
-            center: true,
-          });
-        }
-      });
+          if (svgEl) {
+            const style = document.createElement("style");
+            style.textContent = `
+              * {
+                color-scheme: light !important;
+                forced-color-adjust: none !important;
+              }
+              svg {
+                background-color: white !important;
+                color: black !important;
+              }
+            `;
+            svgEl.insertBefore(style, svgEl.firstChild);
+
+            panZoomInstance = svgPanZoom(svgEl, {
+              zoomEnabled: true,
+              controlIconsEnabled: true,
+              fit: true,
+              center: true,
+            });
+          }
+        });
+      }
     }
+
+    init();
 
     return () => {
       if (panZoomInstance) {
