@@ -1,0 +1,69 @@
+selenium:
+  label: Selenium
+  permalink: /selenium
+  description: Selenium tag description
+
+testng:
+  label: TestNG
+  permalink: /testng
+  description: TestNG tag description
+
+extentreports:
+  label: ExtentReports
+  permalink: /extentreports
+  description: ExtentReports tag description
+
+maven:
+  label: Maven
+  permalink: /maven
+  description: Maven tag description
+
+log4j:
+  label: Log4J
+  permalink: /log4j
+  description: Log4J tag description
+
+playwright:
+  label: Playwright
+  permalink: /playwright
+  description: Playwright tag description
+
+mocha:
+  label: Mocha
+  permalink: /mocha
+  description: Mocha tag description
+
+chai:
+  label: Chai
+  permalink: /chai
+  description: Chai tag description
+
+javascript:
+  label: JavaScript
+  permalink: /javascript
+  description: JavaScript tag description
+
+java:
+  label: Java
+  permalink: /java
+  description: Java tag description
+
+docker:
+  label: Docker
+  permalink: /docker
+  description: Docker tag description
+
+openjdk:
+  label: OpenJDK
+  permalink: /openjdk
+  description: OpenJDK tag description
+
+pm2:
+  label: PM2
+  permalink: /pm2
+  description: PM2 tag description
+
+winston:
+  label: Winston
+  permalink: /winston
+  description: Winston tag description
