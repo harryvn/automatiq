@@ -6,6 +6,8 @@
   <a href="https://docusaurus.io"><img src="https://img.shields.io/badge/Built%20with-Docusaurus-green.svg" alt="Built with Docusaurus" /></a>
 </p>
 
+---
+
 ## 🚀 Overview
 
 AutoMatiQ Documentation is a comprehensive documentation platform built with Docusaurus. This repository serves as the central hub for technical documentation, guides, and best practices across various automation testing tools and frameworks.
