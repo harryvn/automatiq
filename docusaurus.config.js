@@ -161,8 +161,8 @@ const config = {
         theme: { light: "default", dark: "dark" },
       },
       algolia: {
-        appId: "YOUR_APP_ID",
-        apiKey: "YOUR_SEARCH_API_KEY",
+        appId: "S8856LCS2R",
+        apiKey: "16f03f52478ddf3b0dfd1b9cd3aeb608",
         indexName: "automatiq",
       },
     }),
@@ -172,6 +172,15 @@ const config = {
   markdown: {
     mermaid: true,
   },
+  headTags: [
+    {
+      tagName: "meta",
+      attributes: {
+        name: "algolia-site-verification",
+        content: "99989CE22EFC1909",
+      },
+    },
+  ],
 };
 
 export default config;
