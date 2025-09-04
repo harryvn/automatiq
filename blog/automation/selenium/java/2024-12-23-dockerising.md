@@ -393,7 +393,7 @@ Run command `docker container ls -a` to confirm the container is up and running.
 <br/><br/>
 
 :::info
-To configure a Selenium Grid on your system to execute automation scripts, please refer to this [section](/blog/selenium-grid) of my another article, which demonstrates how to set up a Selenium Grid on local or remote systems.
+To configure a Selenium Grid on your system to execute automation scripts, please refer to this [section](/blog/docker) of my another article, which demonstrates how to set up a Selenium Grid on local or remote systems.
 :::
 
 ---
