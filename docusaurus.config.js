@@ -8,10 +8,10 @@ const config = {
   favicon: "img/favicon.png",
 
   url: "https://harryvn.github.io",
-  baseUrl: "/automatiq-docs/",
+  baseUrl: "/automatiq/",
 
   organizationName: "harryvn",
-  projectName: "automatiq-docs",
+  projectName: "automatiq",
   deploymentBranch: "gh-pages",
   trailingSlash: false,
 
