@@ -122,7 +122,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Live Site**: [https://harryvn.github.io/automatiq/](https://harryvn.github.io/automatiq/)
 - **GitHub Repository**: [https://github.com/harryvn/automatiq](https://github.com/harryvn/automatiq)
 - **Issue Tracker**: [GitHub Issues](https://github.com/harryvn/automatiq/issues)
-- **Documentation**: [Getting Started Guide](/docs/welcome)
+- **Documentation**: [Getting Started Guide](https://harryvn.github.io/automatiq/docs/welcome)
 
 ---
 
