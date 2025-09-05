@@ -47,14 +47,14 @@ See automation in action with real implementations and frameworks:
 
 ## 🎯 What You'll Learn
 
-| Topic                       | Description                                    | Difficulty   |
-| --------------------------- | ---------------------------------------------- | ------------ |
-| **Automation Fundamentals** | Architecture, selectors, flows                 | Beginner     |
-| **Locators & the DOM**      | Robust element strategies across tools         | Beginner     |
-| **Synchronization**         | Reliable waits, timeouts, retries              | Intermediate |
-| **Test Design & Patterns**  | Page Objects, Screenplay, layers               | Intermediate |
-| **Framework Architecture**  | Scalable suites, configs, environments         | Advanced     |
-| **CI/CD & Containers**      | Pipelines, parallelism, Docker                 | Advanced     |
+| Topic                       | Description                            | Difficulty   |
+| --------------------------- | -------------------------------------- | ------------ |
+| **Automation Fundamentals** | Architecture, selectors, flows         | Beginner     |
+| **Locators & the DOM**      | Robust element strategies across tools | Beginner     |
+| **Synchronization**         | Reliable waits, timeouts, retries      | Intermediate |
+| **Test Design & Patterns**  | Page Objects, Screenplay, layers       | Intermediate |
+| **Framework Architecture**  | Scalable suites, configs, environments | Advanced     |
+| **CI/CD & Containers**      | Pipelines, parallelism, Docker         | Advanced     |
 
 ## 🛠️ Tooling & Ecosystem
 
@@ -92,7 +92,7 @@ We cover multiple tools and ecosystems (with more on the way):
 - **Documentation**: [Selenium WebDriver Guide](/docs/intro)
 - **Projects**: [View Showcase](/projects)
 - **Blog**: [Latest Articles](/blog)
-- **GitHub**: [Source Code](https://github.com/harryvn)
+- **GitHub**: [Source Code](https://github.com/harryvn/automatiq)
 
 ## 💡 Pro Tips
 
