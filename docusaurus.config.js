@@ -163,7 +163,7 @@ const config = {
       algolia: {
         appId: "S8856LCS2R",
         apiKey: "16f03f52478ddf3b0dfd1b9cd3aeb608",
-        indexName: "automatiq",
+        indexName: "automatiq_pages",
         contextualSearch: true,
       },
     }),
