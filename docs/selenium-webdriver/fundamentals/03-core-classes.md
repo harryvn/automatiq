@@ -26,7 +26,8 @@ These provide the implementation of the core interfaces:
   - `FluentWait`: Flexible strategy with timeouts, polling, and exception ignoring.
   - `WebDriverWait`: Specialization of `FluentWait` for WebDriver usage.
   - `ExpectedConditions`: Pre-built common conditions like `element visible` or `clickable.`
-    ⚠️ Note: In Selenium 4, ExpectedConditions is deprecated in favor of custom `ExpectedCondition<T>` lambdas.
+
+  ⚠️ Note: In Selenium 4, ExpectedConditions is deprecated in favor of custom `ExpectedCondition<T>` lambdas.
 
 - **`DevTools & VirtualAuthenticator`**  
   Advanced APIs (Selenium 4): Provide Chrome DevTools Protocol (CDP) hooks and simulated authentication devices.  

@@ -8,7 +8,7 @@ sidebar_position: 3
 Selenium WebDriver supports multiple programming languages, allowing you to write tests in the language of your choice. Below are the officially supported language bindings for Selenium WebDriver.
 
 ```mermaid
-graph TD
+graph LR
     subgraph "Selenium Client Libraries"
         C1["Java<br>(Official)"]
         C2["C#<br>(Official)"]
