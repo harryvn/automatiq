@@ -173,15 +173,6 @@ const config = {
   markdown: {
     mermaid: true,
   },
-  headTags: [
-    {
-      tagName: "meta",
-      attributes: {
-        name: "algolia-site-verification",
-        content: "99989CE22EFC1909",
-      },
-    },
-  ],
 };
 
 export default config;
