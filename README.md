@@ -2,8 +2,36 @@
 <p align="center">An open-source initiative designed to empower automation testers with a deep understanding of core principles and best practices.</p>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL v3-blue.svg" alt="License: MIT" /></a>
-  <a href="https://docusaurus.io"><img src="https://img.shields.io/badge/Built%20with-Docusaurus-green.svg" alt="Built with Docusaurus" /></a>
+  <!-- License -->
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="License: GPL v3" />
+  </a>
+  <!-- Built with Docusaurus -->
+  <a href="https://docusaurus.io">
+    <img src="https://img.shields.io/badge/Built%20with-Docusaurus-green.svg" alt="Built with Docusaurus" />
+  </a>
+  <!-- Latest Release -->
+  <a href="https://github.com/harryvn/automatiq-docs/releases">
+    <img src="https://img.shields.io/github/v/release/harryvn/automatiq-docs" alt="Latest Release" />
+  </a>
+  <!-- Open Issues -->
+  <a href="https://github.com/harryvn/automatiq-docs/issues">
+    <img src="https://img.shields.io/github/issues/harryvn/automatiq-docs" alt="Issues" />
+  </a>
+  <!-- Pull Requests -->
+  <a href="https://github.com/harryvn/automatiq-docs/pulls">
+    <img src="https://img.shields.io/github/issues-pr/harryvn/automatiq-docs" alt="Pull Requests" />
+  </a>
+  <!-- Docs Online -->
+  <a href="https://harryvn.github.io/automatiq/">
+    <img src="https://img.shields.io/badge/docs-online-brightgreen" alt="Docs online" />
+  </a>
+  <!-- Last Commit -->
+  <img src="https://img.shields.io/github/last-commit/harryvn/automatiq-docs" alt="Last Commit" />
+  <!-- Stars -->
+  <a href="https://github.com/harryvn/automatiq-docs/stargazers">
+    <img src="https://img.shields.io/github/stars/harryvn/automatiq-docs?style=social" alt="GitHub Stars" />
+  </a>
 </p>
 
 ## 🚀 Overview
