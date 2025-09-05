@@ -39,8 +39,8 @@ AutoMatiQ Documentation is a comprehensive documentation platform built with Doc
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/harryvn/automatiq-docs.git
-   cd automatiq-docs
+   git clone https://github.com/harryvn/automatiq.git
+   cd automatiq
    ```
 
 2. **Install dependencies**
@@ -119,9 +119,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🔗 Links & Resources
 
-- **Live Site**: [https://automatiq.in](https://automatiq.in)
-- **GitHub Repository**: [https://github.com/harryvn/automatiq-docs](https://github.com/harryvn/automatiq-docs)
-- **Issue Tracker**: [GitHub Issues](https://github.com/harryvn/automatiq-docs/issues)
+- **Live Site**: [https://harryvn.github.io/automatiq/](https://harryvn.github.io/automatiq/)
+- **GitHub Repository**: [https://github.com/harryvn/automatiq](https://github.com/harryvn/automatiq)
+- **Issue Tracker**: [GitHub Issues](https://github.com/harryvn/automatiq/issues)
 - **Documentation**: [Getting Started Guide](/docs/welcome)
 
 ---
@@ -130,6 +130,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Made with ❤️ by AutoMatiQ**
 
-[⭐ Star us on GitHub](https://github.com/harryvn/automatiq-docs) • [🐛 Report Issues](https://github.com/harryvn/automatiq-docs/issues)
+[⭐ Star us on GitHub](https://github.com/harryvn/automatiq) • [🐛 Report Issues](https://github.com/harryvn/automatiq/issues)
 
 </div>

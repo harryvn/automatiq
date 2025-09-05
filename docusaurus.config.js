@@ -88,7 +88,7 @@ const config = {
             position: "left",
           },
           {
-            href: "https://github.com/harryvn",
+            href: "https://github.com/harryvn/automatiq-docs",
             className: "header-github-link",
             "aria-label": "GitHub",
             position: "right",
