@@ -29,9 +29,9 @@
   <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/harryvn/automatiq-docs" alt="Last Commit" />
   <!-- Stars -->
-  <a href="https://github.com/harryvn/automatiq-docs/stargazers">
+  <!-- <a href="https://github.com/harryvn/automatiq-docs/stargazers">
     <img src="https://img.shields.io/github/stars/harryvn/automatiq-docs?style=social" alt="GitHub Stars" />
-  </a>
+  </a> -->
 </p>
 
 ## 🚀 Overview
