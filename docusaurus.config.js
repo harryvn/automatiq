@@ -166,6 +166,12 @@ const config = {
         indexName: "automatiq_pages",
         contextualSearch: true,
       },
+      sitemap: {
+        changefreq: "weekly",
+        priority: 0.5,
+        ignorePatterns: ["/tags/**"],
+        filename: "sitemap.xml",
+      },
     }),
   plugins: [],
 
